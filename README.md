@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tjgresha
 - 👀 I’m interested in ... snacks
 - 🌱 I’m currently learning ... all the things
-- 💞️ I’m looking to collaborate on ... anything 
+- 💞️ I’m looking to collaborate on ... anything cloud
 - 📫 How to reach me ... timothy.gresham@intel.com
 
 
