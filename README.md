@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tjgresha
 - 👀 I’m interested in ... snacks
-- 🌱 I’m currently learning ... all the things
-- 💞️ I’m looking to collaborate on ... anything cloud
+- 🌱 I’m currently learning ... moar pythons!
+- 💞️ I’m looking to collaborate on ... anything cloud or devopses.
 - 📫 How to reach me ... tjgresha@gmail.com
 
 
